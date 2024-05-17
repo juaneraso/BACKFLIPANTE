@@ -1,0 +1,11 @@
+{
+  "name": "Prueba-Form",
+  "gender": "Hombre",
+  "category": "Pantalón",
+  "mainMaterial": "Algodón",
+  "description": "Este es un pantalon fachero",
+  "images": ["url_imagen", "url_imagen", "url_imagen"],
+  "price": 10000,
+  "sizes": { "sizes_XS": 14, "sizes_X": 14 },
+  "stockTotal": 28
+}
